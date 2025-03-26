@@ -1,1 +1,1 @@
-# Doctor-Appointment-Booking-App
+# Doctor Appointment Booking App
