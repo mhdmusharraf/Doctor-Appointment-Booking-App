@@ -35,7 +35,7 @@ const AdminContextProvider = (props) => {
         backendUrl + "/api/admin/change-availability",
         { docId },
         { headers: { aToken } }
-      );
+      );  
       if (data.success) {
         toast.success(data.message);
         getAllDoctors();
